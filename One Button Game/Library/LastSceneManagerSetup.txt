@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Frank/Work/Work/School/VFS/Unity/Term 2/One Button Game/Assets/Descent.unity
+  isLoaded: 1
+  isActive: 1
